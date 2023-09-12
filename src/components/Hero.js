@@ -11,27 +11,27 @@ const Hero = () => {
           <div className="container mx-auto flex justify-center items-center h-full">
             {/* text */}
             <div className="flex flex-col">
-              <div className="font-seminbold flex items-center uppercase text-green-600">
-                <div className="w-10 h-[3px] "></div>EDUCATION TECHNOLOGY
+              <div className="font-seminbold flex items-center uppercase text-white">
+                <div className="w-10 h-[3px] "></div>CRICKET TEAM PICTURE
               </div>
               <h1 className="text-[70px] leading-[1.1] font-light mb-4 text-white">
-                GOOD <span className="text-orange-600"> BOOKS</span> TAKES <br />{" "}
-                YOU TO <br />
-                <span className="font-semibold text-blue-900">
-                  GOOD <span className="text-pink-600"> KNOWLEDGE</span>{" "}
+                GOOD PLAYER'S <span className="text-green-600">PICTURE</span>{" "}
+                MAKE <br />
+                <span className="font-semibold text-orange-900">
+                  FANS HAPPY
                 </span>
               </h1>
               <Link
                 to={"/home"}
-                className="self-start uppercase font-semibold border-b-2 border-green-400 text-green-400"
+                className="self-start uppercase font-semibold border-b-2 border-red-800 text-orange-400"
               >
-                Books More
+                Buy more
               </Link>
             </div>
             {/* image */}
             <div className="hidden lg:block">
               <img
-                src="https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23165047/Importance-of-Books.jpg"
+                src="https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1661180744.jpg"
                 alt="main-bg"
                 className="w-[900px] h-[580px] mt-16"
               />

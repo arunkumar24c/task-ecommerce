@@ -1,9 +1,9 @@
 const shoes = [
   {
     id: 1,
-    title: "Sports Star Dhoni",
+    title: " Dhoni",
     image:
-      "https://m.media-amazon.com/images/I/51JKJ8ANWlS._SX323_BO1,204,203,200_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp84GpeXDbYT--Rr8mCZCdJFPBpDiEjxa34g&usqp=CAU",
     description:
       "Mahendra Singh Dhoni commonly known as MS Dhoni, is a former Indian cricketer and captain of the Indian national team",
     price: 175,
@@ -14,9 +14,9 @@ const shoes = [
   },
   {
     id: 2,
-    title: "Sports Star Virat",
+    title: "Virat",
     image:
-      "https://m.media-amazon.com/images/I/51EmjDvab0L._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "https://img.favpng.com/18/13/23/virat-kohli-india-national-cricket-team-indian-premier-league-australia-national-cricket-team-png-favpng-hEegWp7stimP4exYwf0uheKZL.jpg",
     description:
       "Virat Kohli is an Indian international cricketer and the former captain of the India national team who plays as a right-handed batsman",
     price: 239,
@@ -28,9 +28,9 @@ const shoes = [
   },
   {
     id: 3,
-    title: "Sports Star Sachin",
+    title: "Sachin",
     image:
-      "https://m.media-amazon.com/images/I/41PrmmLat4L._SX324_BO1,204,203,200_.jpg",
+      "https://i.pinimg.com/originals/83/6c/c4/836cc47064357a49f2c81b434b866d39.jpg",
     description:
       "Sachin Tendulkar was the most complete batter of his time, the most prolific run-maker of all time, and arguably the biggest cricket icon the game has ever ...",
     price: 209,
@@ -42,11 +42,11 @@ const shoes = [
   },
   {
     id: 4,
-    title: "Sports Star Raina",
+    title: "Rohit",
     image:
-      "https://m.media-amazon.com/images/I/41ApiDTP6LL._SX323_BO1,204,203,200_.jpg",
+      "https://p1.hiclipart.com/preview/621/822/464/sports-day-rohit-sharma-indian-cricketer-batsman-tshirt-sleeve-team-sport-uniform-png-clipart.jpg",
     description:
-      "Suresh Raina represented the new-age Indian cricketer: An attacking left-hander who went for the big shots with impunity and cleared the field with a ...",
+      "Rohit represented the new-age Indian cricketer: An attacking right-hander who went for the big shots with impunity and cleared the field with a ...",
     price: 149,
     originalPrize: 275,
     offers: "13% offer",
@@ -56,9 +56,9 @@ const shoes = [
   },
   {
     id: 5,
-    title: "Cricket",
+    title: "yuviraj Sing",
     image:
-      "https://m.media-amazon.com/images/I/41tQVNg9PHL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "https://i.pinimg.com/236x/d7/1e/36/d71e36b2093c7751ea9c970730b716d5.jpg",
     description:
       "Get live cricket scores, cricket updates of upcoming International, domestic and T20 matches. ",
     price: 140,
@@ -70,9 +70,9 @@ const shoes = [
   },
   {
     id: 6,
-    title: "Cricket Bat And Ball",
+    title: "Pant",
     image:
-      "https://m.media-amazon.com/images/I/71ZiffT30uL._AC_UY327_FMwebp_QL65_.jpg",
+      "https://i.pinimg.com/originals/35/8a/ba/358aba06d2eb9117e7db721f39805c10.jpg",
     description:
       "Whether elite athletes are racing or training, they look to Zoom Air for a fast, responsive ride and that snappy, quick-off-the-ground feel that helps optimise their quest for speed.",
     price: 129,
@@ -83,11 +83,11 @@ const shoes = [
   },
   {
     id: 7,
-    title: "Abdul Kalam",
+    title: "STEVE SMITH",
     image:
-      "https://m.media-amazon.com/images/I/81TWV2oFfiL._AC_UY327_FMwebp_QL65_.jpg",
+      "https://img.favpng.com/20/8/1/steve-smith-australia-national-cricket-team-india-national-cricket-team-west-indies-cricket-team-the-ashes-png-favpng-3WX1T82VVdbCtFfJSvA9f6Q5x.jpg",
     description:
-      "Avul Pakir Jainulabdeen Abdul Kalam BR was an Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007.",
+      "smith is good cricketer and he  is number 1 batsman for world",
     price: 700,
     originalPrize: 1499,
     offers: "24% offer",
@@ -96,11 +96,11 @@ const shoes = [
   },
   {
     id: 8,
-    title: "Gandhi",
+    title: "MAXWELL",
     image:
-      "https://m.media-amazon.com/images/I/81XqXdOE5mS._AC_UY327_FMwebp_QL65_.jpg",
+      "https://www.seekpng.com/png/detail/269-2692372_maxwell-was-bagged-by-mumbai-indians-for-a.png",
     description:
-      "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist and political ethicist famous for his nonviolent resistance.",
+      "Maxwell is good cricketer and he  is number 1 allrounder  for world",
     price: 349,
     originalPrize: 649,
     offers: "29% offer",
@@ -110,11 +110,10 @@ const shoes = [
   },
   {
     id: 9,
-    title: "Messi and Ronaldo",
+    title: "KL RAGUL",
     image:
-      "https://m.media-amazon.com/images/I/91WodK2HFlL._AC_UY327_FMwebp_QL65_.jpg",
-    description:
-      "While Ronaldo currently has more goals overall, Messi has the edge in the scoring department, with a higher season average (37.9 to 35), having ...",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf6BY0yosUspSfmyHhG8Z_UY7HpiCWgUcp5P69fFq4nQvGoR4c6ELKdkxAvhEqRU60yFs&usqp=CAU",
+    description: "While Ragul scored many runs to indian team ",
     price: 159,
     originalPrize: 223,
     offers: "10% offer",
@@ -123,11 +122,11 @@ const shoes = [
   },
   {
     id: 10,
-    title: "Teaching",
+    title: "MATHEW WADE",
     image:
-      "https://m.media-amazon.com/images/I/61caxIyYp+L._AC_UY327_FMwebp_QL65_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Fw5E8GjX-pDO3w9LPutaizGUbTFer2hh2tEuRoRTGNVS3SDKQoEBEhQr6Wml198bI0Q&usqp=CAU",
     description:
-      "Teaching is the practice implemented by a teacher aimed at transmitting skills",
+      "mathew wade is good wicket keeeper batsman for the austrialia team",
     price: 199,
     originalPrize: 323,
     offers: "7% offer",
@@ -162,11 +161,10 @@ const shoes = [
   },
   {
     id: 13,
-    title: "Physical Education",
+    title: "FINCH",
     image:
-      "https://m.media-amazon.com/images/I/81KO1plcRBL._AC_UY327_FMwebp_QL65_.jpg",
-    description:
-      "Physical education, often abbreviated to Phys Ed. or P.E., is a subject taught in schools around the world.",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlDkc8v7x4Q-w9VfCug-LnM3_g_M82vVbG1t_zoGZ533ZrIm8M47YkPfN5HyE449_s114&usqp=CAU",
+    description: "finich is good batsman and good capitan for austrialia team ",
     price: 190,
     originalPrize: 349,
     offers: "10% offer",
@@ -175,11 +173,10 @@ const shoes = [
   },
   {
     id: 14,
-    title: "Ronaldo",
-    image:
-      "https://m.media-amazon.com/images/I/71Z-3b1FwbL._AC_UY327_FMwebp_QL65_.jpg",
+    title: "BHUVNESHWAR KUMAR",
+    image: "https://wallpaper.dog/large/17293202.jpg",
     description:
-      "Cristiano Ronaldo dos Santos Aveiro GOIH ComM is a Portuguese professional footballer who plays as a forward for and captains both Saudi Professional League ...",
+      "BHUVNESHWAR KUMAR has taken many wicket for team india and he has taken 1st wicket in his 1st ball of the carear",
     price: 195,
     originalPrize: 419,
     offers: "15% offer",
@@ -244,7 +241,7 @@ const shoes = [
     image:
       "https://m.media-amazon.com/images/I/41H1wOzKkjL._SY264_BO1,204,203,200_QL40_FMwebp_.jpg",
     description:
-"Nature the only Healer delineates the only way that is available to humanity to remain disease-free and live healthy is the natural way. To do so means to .",
+      "Nature the only Healer delineates the only way that is available to humanity to remain disease-free and live healthy is the natural way. To do so means to .",
     price: 424,
     originalPrize: 749,
     offers: "33% offer",
@@ -266,11 +263,10 @@ const shoes = [
   },
   {
     id: 21,
-    title: "Tennis",
-    image:
-      "https://m.media-amazon.com/images/I/81jRd3jbzeL._AC_UY327_FMwebp_QL65_.jpg",
+    title: "Jadaja",
+    image: "https://wallpapercave.com/wp/wp5190695.jpg",
     description:
-      " tennis, original name lawn tennis, game in which two opposing players (singles) or pairs of players (doubles) use tautly strung rackets to ...",
+      "jadaja is a leading wicket taker for india and he is best alrounder for india ",
     price: 229,
     originalPrize: 369,
     offers: "17% offer",

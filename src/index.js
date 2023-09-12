@@ -9,18 +9,15 @@ import "./styles/normalize.css";
 import SidebarProvider from "./contexts/SidebarContext";
 // Context provider
 import CartProvider from "./contexts/CartContext";
-// Auth provider
-import AuthContextProvider from "./contexts/AuthContext";
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <AuthContextProvider>
-      <CartProvider>
-        <SidebarProvider>
-          <App />
-        </SidebarProvider>
-      </CartProvider>
-    </AuthContextProvider>
+    <CartProvider>
+      <SidebarProvider>
+        <App />
+      </SidebarProvider>
+    </CartProvider>
   </React.StrictMode>
 );

@@ -39,9 +39,9 @@ const Header = () => {
         <div className="container mx-auto px-6 md:px-16 flex justify-between items-center h-full">
           <Link to={"/home"}>
             <img
-              src="https://easydrawingguides.com/wp-content/uploads/2020/08/Open-Book-Step-10.png"
+              src="https://img.freepik.com/free-vector/red-ball-hitting-wicket-stumps-with-bat-black-abstract-splash-background-cricket-fever-concept_1302-5492.jpg?w=2000"
               alt="logo"
-              className="w-[80px] h-[50px]"
+              className="w-[80px] h-[50px] rounded-full"
             />
           </Link>
           <div
